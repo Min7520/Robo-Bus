@@ -1,0 +1,110 @@
+ERC report (2025-11-12T20:39:11+0000, Encoding UTF8)
+
+***** Sheet /
+[footprint_link_issues]: The current configuration does not include the footprint library 'Resistor_SMD'.
+    ; warning
+    @(101.60 mm, 97.79 mm): Symbol R1 [R]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Device'
+    ; warning
+    @(101.60 mm, 97.79 mm): Symbol R1 [R]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Resistor_SMD'.
+    ; warning
+    @(101.60 mm, 113.03 mm): Symbol R2 [R]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Device'
+    ; warning
+    @(101.60 mm, 113.03 mm): Symbol R2 [R]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Resistor_SMD'.
+    ; warning
+    @(147.32 mm, 52.07 mm): Symbol R3 [R]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Device'
+    ; warning
+    @(147.32 mm, 52.07 mm): Symbol R3 [R]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Jumper'.
+    ; warning
+    @(93.98 mm, 129.54 mm): Symbol JP1 [Jumper_2_Open]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Jumper'
+    ; warning
+    @(93.98 mm, 129.54 mm): Symbol JP1 [Jumper_2_Open]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Resistor_SMD'.
+    ; warning
+    @(147.32 mm, 67.31 mm): Symbol R4 [R]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Device'
+    ; warning
+    @(147.32 mm, 67.31 mm): Symbol R4 [R]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(130.81 mm, 96.52 mm): Symbol #PWR010 [VCC]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(101.60 mm, 130.81 mm): Symbol #PWR01 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(170.18 mm, 40.64 mm): Symbol #FLG01 [PWR_FLAG]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(173.99 mm, 40.64 mm): Symbol #PWR011 [VCC]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Connector_Dsub'.
+    ; warning
+    @(142.24 mm, 109.22 mm): Symbol J2 [DE9_Pins_MountingHoles]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Connector'
+    ; warning
+    @(142.24 mm, 109.22 mm): Symbol J2 [DE9_Pins_MountingHoles]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(132.08 mm, 121.92 mm): Symbol #PWR05 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(171.45 mm, 68.58 mm): Symbol #FLG02 [PWR_FLAG]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(175.26 mm, 69.85 mm): Symbol #PWR03 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(142.24 mm, 127.00 mm): Symbol #PWR06 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Connector_Dsub'.
+    ; warning
+    @(185.42 mm, 54.61 mm): Symbol J1 [DE9_Pins_MountingHoles]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Connector'
+    ; warning
+    @(185.42 mm, 54.61 mm): Symbol J1 [DE9_Pins_MountingHoles]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(185.42 mm, 72.39 mm): Symbol #PWR04 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Resistor_SMD'.
+    ; warning
+    @(186.69 mm, 97.79 mm): Symbol R5 [R]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Device'
+    ; warning
+    @(186.69 mm, 97.79 mm): Symbol R5 [R]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Resistor_SMD'.
+    ; warning
+    @(186.69 mm, 113.03 mm): Symbol R6 [R]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Device'
+    ; warning
+    @(186.69 mm, 113.03 mm): Symbol R6 [R]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Jumper'.
+    ; warning
+    @(179.07 mm, 129.54 mm): Symbol JP3 [Jumper_2_Open]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Jumper'
+    ; warning
+    @(179.07 mm, 129.54 mm): Symbol JP3 [Jumper_2_Open]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(186.69 mm, 130.81 mm): Symbol #PWR07 [GND]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(215.90 mm, 96.52 mm): Symbol #PWR02 [VCC]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(217.17 mm, 121.92 mm): Symbol #PWR08 [GND]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Connector_Dsub'.
+    ; warning
+    @(227.33 mm, 109.22 mm): Symbol J3 [DE9_Pins_MountingHoles]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Connector'
+    ; warning
+    @(227.33 mm, 109.22 mm): Symbol J3 [DE9_Pins_MountingHoles]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'power'
+    ; warning
+    @(227.33 mm, 127.00 mm): Symbol #PWR09 [GND]
+
+ ** ERC messages: 35  Errors 0  Warnings 35
