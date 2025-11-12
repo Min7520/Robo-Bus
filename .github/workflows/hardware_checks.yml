@@ -1,4 +1,4 @@
-# Run KiCad checks
+# Run KiCad checks and display schematics / PCBs in a PR comment
 name: Hardware checks
 
 on:
@@ -55,7 +55,7 @@ jobs:
         run: |
           sudo add-apt-repository -y ppa:kicad/kicad-9.0-releases
           sudo apt update
-          sudo apt install kicad=9.0.6~ubuntu22.04.1 --no-install-recommends
+          sudo apt install kicad=9.0.6~ubuntu22.04.1
 
       - uses: actions/checkout@v4
 
