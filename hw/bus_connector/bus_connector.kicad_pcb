@@ -8628,7 +8628,7 @@
 		(target_length_max 1000000)
 		(target_length_min 0)
 		(target_skew 0)
-		(target_skew_max 0.1)
+		(target_skew_max 0.2)
 		(target_skew_min -0.1)
 		(tuning_mode "diff_pair_skew")
 		(members "1e5db450-f143-4960-8169-4b1acb7ef1fa" "205d29b5-4715-4db9-b949-8cd711819fae"
